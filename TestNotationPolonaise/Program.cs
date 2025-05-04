@@ -29,6 +29,8 @@ namespace TestNotationPolonaise
         /// <param name="args"></param>
          
         for i in range (0,len(laFormule)):
+
+
        
         static void Main(string[] args)
         {
