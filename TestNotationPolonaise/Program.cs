@@ -33,8 +33,6 @@ namespace TestNotationPolonaise
 
 
 
-
-
        
         static void Main(string[] args)
         {
